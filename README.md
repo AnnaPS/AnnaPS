@@ -16,14 +16,14 @@ I'm co-organizer of Flutter Spain and Flutter Madrid communities and also I'm pa
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working with Flutter;
-- 🚀 I’m co-organizer of Flutter Spain and Flutter Madrid communities;
-- 💜 I’m a Flutterista;
-- 🇺🇸 I'm learning English;
-- 💬 Ask me about anything, I' happy to help;
-- 📝 I write articles on [medium](https://medium.com/@ana.polo.sanchez1991);
+- 👨🏻‍💻 I’m currently working with Flutter.
+- 🚀 I’m co-organizer of Flutter Spain and Flutter Madrid communities.
+- 💜 I’m a Flutterista.
+- 🇺🇸 I'm learning English.
+- 💬 Ask me about anything, I' happy to help.
+- 📝 I write articles on [medium](https://medium.com/@ana.polo.sanchez1991).
 
-**Packages on Pub dev** 
+**Packages on Pub Dev** 
 
 - DNI/NIE Validator: [dni/nie_validator](https://pub.dev/packages/dni_nie_validator)
 
