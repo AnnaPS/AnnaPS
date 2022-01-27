@@ -21,7 +21,7 @@ I'm co-organizer of Flutter Spain and Flutter Madrid communities and also I'm pa
 - 💜 I’m a Flutterista.
 - 🇺🇸 I'm learning English.
 - 💬 Ask me about anything, I' happy to help.
-- 📝 I write articles on [medium](https://medium.com/@ana.polo.sanchez1991).
+- 📝 I write articles on [medium](https://medium.com/@ana-polo).
 
 **Packages on Pub Dev** 
 
