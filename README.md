@@ -2,7 +2,7 @@
 ### Hi there, I'm Ana Polo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AnaPolo_dev)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@ana.polo.sanchez1991)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://ana-polo.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anapolosanchez)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AnnaPS)
@@ -21,7 +21,7 @@ I'm co-organizer of Flutter Spain and Flutter Madrid communities and also I'm pa
 - 💜 I’m a Flutterista.
 - 🇺🇸 I'm learning English.
 - 💬 Ask me about anything, I' happy to help.
-- 📝 I write articles on [medium](https://medium.com/@ana-polo).
+- 📝 I write articles on [medium](https://ana-polo.medium.com/).
 
 **Packages on Pub Dev** 
 
