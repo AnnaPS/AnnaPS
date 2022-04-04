@@ -16,7 +16,7 @@ I'm co-organizer of Flutter Spain and Flutter Madrid communities and also I'm pa
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working with Flutter.
+- 🦄 Software Engineer II at @VGVentures.
 - 🚀 I’m co-organizer of Flutter Spain and Flutter Madrid communities.
 - 💜 I’m a Flutterista.
 - 🇺🇸 I'm learning English.
