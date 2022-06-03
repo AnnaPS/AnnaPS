@@ -1,5 +1,5 @@
 
-### Hi there, I'm Ana Polo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Ana Polo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" height="24">
 
 
 🦄🦄🦄 I'm a Software Engineer II at Very Good Ventures 🦄🦄🦄
