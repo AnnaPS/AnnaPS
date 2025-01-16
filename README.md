@@ -2,7 +2,7 @@
 ### Hi there, I'm Ana Polo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24" height="24">
 
 
-🦄🦄🦄 I'm a Software Engineer II at Very Good Ventures 🦄🦄🦄
+🦄🦄🦄 I'm a Senior Software Engineer at Very Good Ventures 🦄🦄🦄
 
 ![vgv logo](https://user-images.githubusercontent.com/13244085/165785577-3f7b07c8-2bb7-468e-8534-3f91646b6a5a.png)
 
