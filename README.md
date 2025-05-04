@@ -13,17 +13,15 @@ I love programming, learning new things and playing video games.
 
 As a programmer, I enjoy learning new things and improving my knowledge. 
 
-I'm co-organizer of Flutter Spain and Flutter Madrid communities and also I'm part of a Flutteristas group.
-
 #### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AnnaPS)
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
-- 🦄 Software Engineer II at @VGVentures.
-- 🚀 I’m co-organizer of Flutter Spain and Flutter Madrid communities.
-- 💜 I’m a Flutterista.
+- 🦄 Senior Software Engineer I at @VGVentures.
+- 💙 Flutter lover
+- 🍎 Learning Swift and SwiftUI
 - 🇺🇸 I'm learning English.
-- 💬 Ask me about anything, I' happy to help.
+- 💬 Ask me about anything, I'm happy to help.
 - 📝 I write articles on [medium](https://ana-polo.medium.com/).
 
 **Packages on Pub Dev** 
