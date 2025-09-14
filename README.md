@@ -20,7 +20,6 @@ As a programmer, I enjoy learning new things and improving my knowledge.
 - 🦄 Senior Software Engineer I at @VGVentures.
 - 💙 Flutter lover
 - 🍎 Learning Swift and SwiftUI
-- 🇺🇸 I'm learning English.
 - 💬 Ask me about anything, I'm happy to help.
 - 📝 I write articles on [medium](https://ana-polo.medium.com/).
 
