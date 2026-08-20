@@ -10,6 +10,7 @@
 
 Technical writer on Medium.
 I love programming, learning new things and playing video games.
+I obtained the Claude Certified Architect certification in 2026.
 
 As a programmer, I enjoy learning new things and improving my knowledge. 
 
